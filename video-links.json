@@ -8,13 +8,13 @@
     {
         "tag": "Liverpool",
         "name": "Special Liverpool Stream",
-        "url": "https://example.com/liverpool-stream",
-        "referer": "https://example.com"
+        "url": "https://mindfulliving.my/live/n-1/chunks.m3u8",
+        "referer": "https://sportcastelite.net/"
     },
     {
         "tag": "Crystal Palace",
         "name": "Eng",
-        "url": "https://play1nm.hnyongshun.cn/live/ballbar_39060.m3u8",
-        "referer": ""
+        "url": "https://mindfulliving.my/live/n-1/chunks.m3u8",
+        "referer": "https://sportcastelite.net/"
     }
 ]

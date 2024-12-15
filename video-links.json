@@ -1,6 +1,20 @@
-{
-    "tag": "Liverpool",
-    "name": "Special Live",
-    "url": "https://obevcimanyd179569584.akainu.xyz/NfPKl15MffVFxD08ZJYf8w/Fv2lucGIbhPi2caWYvF5Lg/1734263538690/live/dungHD/playlist.m3u8",
-    "referer": "https://i.fdcdn.xyz/"
-}
+[
+    {
+        "tag": "Manchester City",
+        "name": "English",
+        "url": "https://example.com/melbourne-stream",
+        "referer": "https://example.com"
+    },
+    {
+        "tag": "Liverpool",
+        "name": "Special Liverpool",
+        "url": "https://example.com/liverpool-stream",
+        "referer": "https://example.com"
+    },
+    {
+        "tag": "Arsenal",
+        "name": "English",
+        "url": "https://example.com/manchester-stream",
+        "referer": "https://example.com"
+    }
+]

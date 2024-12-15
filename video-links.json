@@ -1,5 +1,14 @@
 {
-        'name': 'Special Liverpool Stream',
-        'url': 'https://example.com/liverpool-stream',
-        'referer': 'https://example.com'
+  "video_links": [
+    {
+      "name": "Eng 1",
+      "url": "http://example.com/eng1",
+      "referer": "https://referer"
+    },
+    {
+      "name": "Eng 2",
+      "url": "http://example.com/eng2"
+      "referer": "https://referer"
     }
+  ]
+}

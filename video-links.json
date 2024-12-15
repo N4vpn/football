@@ -1,18 +1,20 @@
-{
-  "tag": "Melbourne City",
-  "name": "Special Liverpool Stream",
-  "url": "https://example.com/liverpool-stream",
-  "referer": "https://example.com"
-}
-{
-  "tag": "Melbourne City",
-  "name": "Special Liverpool Stream",
-  "url": "https://example.com/liverpool-stream",
-  "referer": "https://example.com"
-}
-{
-  "tag": "Liverpool",
-  "name": "Special Liverpool Stream",
-  "url": "https://example.com/liverpool-stream",
-  "referer": "https://example.com"
-}
+[
+    {
+        "tag": "Melbourne City",
+        "name": "Special Melbourne City Stream",
+        "url": "https://example.com/melbourne-stream",
+        "referer": "https://example.com"
+    },
+    {
+        "tag": "Liverpool",
+        "name": "Special Liverpool Stream",
+        "url": "https://example.com/liverpool-stream",
+        "referer": "https://example.com"
+    },
+    {
+        "tag": "Manchester United",
+        "name": "Special Manchester United Stream",
+        "url": "https://example.com/manchester-stream",
+        "referer": "https://example.com"
+    }
+]

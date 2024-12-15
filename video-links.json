@@ -1,6 +1,4 @@
 {
-  "video_links": [
-    {
       "name": "Eng 1",
       "url": "http://example.com/eng1",
       "referer": "https://referer"
@@ -10,5 +8,3 @@
       "url": "http://example.com/eng2"
       "referer": "https://referer"
     }
-  ]
-}

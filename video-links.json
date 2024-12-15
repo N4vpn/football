@@ -1,4 +1,5 @@
-"video_links": [
+{
+  "video_links": [
     {
       "name": "Eng 1",
       "url": "http://example.com/eng1"
@@ -8,3 +9,4 @@
       "url": "http://example.com/eng2"
     }
   ]
+}
